@@ -1,0 +1,31 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: SQL_Table_Tool - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/SQL_Table_Tool.res" /d "_DEBUG" "D:\My_Document\Desktop\C++\SQL_Table_Tool\SQL_Table_Tool.rc"" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP2FB.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/SQL_Table_Tool.pdb" /debug /machine:I386 /out:"Debug/SQL_Table_Tool.exe" /pdbtype:sept 
+".\Debug\adodc.obj"
+".\Debug\datagrid.obj"
+".\Debug\SQL_Table_Tool.obj"
+".\Debug\SQL_Table_ToolDlg.obj"
+".\Debug\StdAfx.obj"
+".\Debug\SQL_Table_Tool.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP2FB.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+SQL_Table_Tool.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
